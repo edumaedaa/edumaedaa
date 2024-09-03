@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **TensorFlow, Pytorch, ML**
+ 🌱 I’m currently learning **TensorFlow, Pytorch, Keras, SciKit-Learn, ML**
 
 <!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**-->
 
@@ -39,8 +39,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+    <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="64" height="64"/>
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="64" height="64"/>
+    <br>
+    
 </div>
 
 <br/>
