@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently searching for **Working**
  
  🌱 I’m currently learning **TensorFlow, Pytorch, Keras, SciKit-Learn, ML**
 
