@@ -4,7 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Eduardo+Araújo👋;Data+Scientist+Junior🤖!;" />
 </h1>
 
-<h3 align="center">A passionate Data Scientist from Brazil Br</h3>
+<div align="center" style="text-align: center;">
+  <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" alt="Microsoft Computer GIF" width="64" height="64" />
+  <h3>A passionate Data Scientist from Brazil</h3>
+</div>
+
 
 <br/>
 
