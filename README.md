@@ -6,7 +6,7 @@
 
 <div align="center" style="text-align: center;">
   <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" alt="Microsoft Computer GIF" width="64" height="64" />
-  <h3>A passionate Data Scientist from Brazil</h3>
+  <h3>A passionate Data Scientist from Brazil :brazil: </h3>
 </div>
 
 
