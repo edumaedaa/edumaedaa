@@ -6,7 +6,8 @@
 
 <div align="center" style="text-align: center;">
   <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" alt="Microsoft Computer GIF" width="64" height="64" />
-  <h3>A passionate Data Scientist from Brazil :brazil: </h3>
+  <h3>A passionate Data Scientist from Brazil <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" style="width: 20px; height: 15px;"></h3>
+
 </div>
 
 
