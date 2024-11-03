@@ -16,7 +16,7 @@
  
  🔭 I’m currently searching for **Working**
  
- 🌱 I’m currently learning **TensorFlow, Pytorch, Keras, SciKit-Learn, ML**
+ 🌱 I’m currently learning **Python, Pytorch, FastApi, SciKit-Learn, OpenCV**
 
 <!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**-->
 
