@@ -44,11 +44,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,tensorflow"/>
-    <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="64" height="64"/>
-    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="64" height="64"/>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,sklearn,opencv" />
     <br>
-    
 </div>
 
 <br/>
